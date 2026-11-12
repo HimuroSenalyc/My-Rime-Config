@@ -1,0 +1,21 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: kaomoji_custom
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+# 下面是你专属的颜文字字典（中间用 Tab 键隔开，别用空格）
+凸^-^凸	kaixin
+ヽ(✿ﾟ▽ﾟ)ノ	kaixin
+ｍ(o・ω・o)ｍ	chayaohuocha
+(╯°□°）╯︵ ┻━┻	xianzhuozi
+ʕ •ᴥ•ʔ……	xiaoxiong
+Q.E.D.	zhengming
+＼（⌒∇⌒）／	huanhu
+凸^-^凸	tu
+ᕕ( ᐛ )ᕗ	shazi	100
+૮₍ ˃ ⤙ ˂ ₎ა૮₍ 	chibie	100
+( ´◔ ‸◔`)	zenmele	100
+𓆡𓆝𓆟𓆜𓆞𓆝𓆟𓆜𓆞	yuyuyu	100

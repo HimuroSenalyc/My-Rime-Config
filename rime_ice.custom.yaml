@@ -1,0 +1,5 @@
+patch:
+  'menu/page_size': 5
+  # 暴力移除英文词典
+  #'translator/dictionary': rime_ice
+  #'translator/enable_user_dict': false
